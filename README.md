@@ -1,0 +1,1 @@
+This is a simple to do app which helps to keep track of your daily rountine from cycling to eating and  any daily activity you can think about. it was built using basic programming language like Html, CSS and JavaScript. i'm sure you'll find this interesting
